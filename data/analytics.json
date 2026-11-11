@@ -520,5 +520,14 @@
     "visitor_hash": "cad34b4c06b37bf606c0e59640aa6bec4e59e9862672ce844012991257013952",
     "user_agent_hash": "8abd5911139dd73bcfb54147970adcfb632ecce3aeaf71d507a40666eb6e9742",
     "created_at": 1794415982522
+  },
+  {
+    "id": "f84e6160-ae13-4f25-82d9-8d41e6c419b4",
+    "path": "/post/a47bce67-edb8-4b45-91c7-c504002b4b41",
+    "post_id": "a47bce67-edb8-4b45-91c7-c504002b4b41",
+    "category": "articles",
+    "visitor_hash": "cad34b4c06b37bf606c0e59640aa6bec4e59e9862672ce844012991257013952",
+    "user_agent_hash": "8abd5911139dd73bcfb54147970adcfb632ecce3aeaf71d507a40666eb6e9742",
+    "created_at": 1794416018135
   }
 ]
