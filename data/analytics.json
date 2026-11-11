@@ -835,5 +835,14 @@
     "visitor_hash": "10a413bbaa3a3ce8ddbf40fca04a42e4b2806003e66f79cd6697fc114ba89c6b",
     "user_agent_hash": "aa811ec163e0ff6ef4c74b5594fbf8ba9637d91b2bee52a687e6e3a2ae014a87",
     "created_at": 1794426524023
+  },
+  {
+    "id": "ef10db41-a186-448e-98c1-d811c213a593",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
+    "visitor_hash": "8a48b72373e3406f06221e32b7c29221aab3516bf9bad1862631b567d5838eb5",
+    "user_agent_hash": "409e880cfc105603203cfb3005366341d7dd7c3f64091f3a1d1a83df3c086009",
+    "created_at": 1794427127655
   }
 ]
