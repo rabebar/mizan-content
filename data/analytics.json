@@ -1969,5 +1969,14 @@
     "visitor_hash": "532268281ceff9ee69cdb2878ff807b6249758e0604fb22116e7b476a6c90356",
     "user_agent_hash": "ef705e4b52680b23b68d1b62e95d7197a572ebe729ed0fdcd99cf73181f9b216",
     "created_at": 1794484566922
+  },
+  {
+    "id": "783fd516-6672-4140-994c-20801efbde84",
+    "path": "/post/c6b29fb4-b65f-42de-9622-21d96158fefe",
+    "post_id": "c6b29fb4-b65f-42de-9622-21d96158fefe",
+    "category": "middle-east",
+    "visitor_hash": "884974e6aafc82734afd63488fccfc29e6825d78885574586cb61419783b6eac",
+    "user_agent_hash": "2a9ab0269877a73de48a5319b99faaecf8cc421242177a9a09d62f611178dbdd",
+    "created_at": 1794484614248
   }
 ]
