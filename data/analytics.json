@@ -1881,12 +1881,12 @@
     "created_at": 1794481887287
   },
   {
-    "id": "f3e1d770-7d9e-45d5-a6dc-a27513d7f718",
-    "path": "/post/8d7b028a-869d-454d-89cd-7e27cb253262",
-    "post_id": "8d7b028a-869d-454d-89cd-7e27cb253262",
-    "category": "articles",
+    "id": "68acd4ee-0edb-4cf3-9663-ff33bb3034f0",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "9ecb6826d74080583a933de0e7b80f6409d148cd9cc3cc8275e6e113b377ef01",
     "user_agent_hash": "6723902bbf9ed2f5e665bca7b5af2203ce9d3f3539aa28b0b499fcd5d3360ecf",
-    "created_at": 1794481981961
+    "created_at": 1794481983645
   }
 ]
