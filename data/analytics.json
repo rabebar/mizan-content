@@ -1789,5 +1789,14 @@
     "visitor_hash": "89eb58606f8dfa9ab1f8e41e2cf616c5558b5037480426d4dc1cf097aa370498",
     "user_agent_hash": "3d6fa8eed2be5bbbb63123e9c1235e10a9f0d249c6995a6b182459da0a0d0066",
     "created_at": 1794477478331
+  },
+  {
+    "id": "0ee8d48f-8d74-48b4-a6bf-9eeaa2b82d79",
+    "path": "/post/c6b29fb4-b65f-42de-9622-21d96158fefe",
+    "post_id": "c6b29fb4-b65f-42de-9622-21d96158fefe",
+    "category": "middle-east",
+    "visitor_hash": "b5782bf0cca3c7b7cc03458b8dee6de234925184a953c46b6058f047ae0f1f2c",
+    "user_agent_hash": "0b5bf65a3c87672ee6bd66722063c699806278ae67c8a7fac1ccf6083917e6cf",
+    "created_at": 1794477531342
   }
 ]
