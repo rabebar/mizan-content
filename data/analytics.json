@@ -1926,12 +1926,12 @@
     "created_at": 1794482156357
   },
   {
-    "id": "1cdb5f34-5dd2-4333-b0ab-4348e042796c",
-    "path": "/post/8d7b028a-869d-454d-89cd-7e27cb253262",
-    "post_id": "8d7b028a-869d-454d-89cd-7e27cb253262",
-    "category": "articles",
+    "id": "6ecdd1db-81b4-4ff5-882f-b844bd96e299",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "3aeb096094e842f3d353224bad1020a83dce5c16a718ee47689b5bb3d2dc2011",
     "user_agent_hash": "6723902bbf9ed2f5e665bca7b5af2203ce9d3f3539aa28b0b499fcd5d3360ecf",
-    "created_at": 1794482207997
+    "created_at": 1794482209727
   }
 ]
