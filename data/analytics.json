@@ -2709,12 +2709,21 @@
     "created_at": 1794557006217
   },
   {
-    "id": "834764c1-5afb-4b37-b79a-618dd94a9474",
+    "id": "aca6c508-e8cb-47b5-a7ee-1d52ef46fd93",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
+    "visitor_hash": "95cb3064094ea86d55a40c290c5ff13f6863256edacbe0f2cf906dc32bf7feee",
+    "user_agent_hash": "354cc972371e292e4622f0e54d8db6bc680614eaea127fe854bae1e894cd2515",
+    "created_at": 1794557274669
+  },
+  {
+    "id": "a7bd461f-5e5e-465d-8431-a42dbf84438a",
     "path": "/",
     "post_id": null,
     "category": "home",
     "visitor_hash": "9126059d894e573ead59234257ac7c7468cece15e588f73e871fe34d39dac8ba",
-    "user_agent_hash": "839d98aac393eabedcd815b51e257d250a31cfbcab3a029c4a4da4ed31968307",
-    "created_at": 1794557276014
+    "user_agent_hash": "354cc972371e292e4622f0e54d8db6bc680614eaea127fe854bae1e894cd2515",
+    "created_at": 1794557278016
   }
 ]
