@@ -4444,5 +4444,14 @@
     "visitor_hash": "76cc472fe8a479026f44ad45dc0a158af4103e29a20cf5a27bbb85f4b0afa100",
     "user_agent_hash": "fc0255d8b892b7b3d3096af03871731b6ce1127e8c5f3e1f5dfaa9656800667c",
     "created_at": 1794755589501
+  },
+  {
+    "id": "6a442f3e-6057-4746-bfcd-0d6a4944d89b",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
+    "visitor_hash": "76cc472fe8a479026f44ad45dc0a158af4103e29a20cf5a27bbb85f4b0afa100",
+    "user_agent_hash": "4a26b16b5a69a727455605bce279d4ec886c7df25384df3284356678fb4e0f3f",
+    "created_at": 1794755594628
   }
 ]
