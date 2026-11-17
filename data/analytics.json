@@ -6273,12 +6273,12 @@
     "created_at": 1794944987119
   },
   {
-    "id": "0aad1ddc-f909-4937-960e-94fa8d8a1b45",
-    "path": "/post/7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "post_id": "7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "category": "international",
+    "id": "73583f49-2b79-42b5-80df-0547e5fec8c2",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "a8c2df3df4c67bb4264b85421e7f87c67716a1b720298f6d071229a62779f2af",
     "user_agent_hash": "17697a6c8295fdc70f413ca8eeff563b49c8df30283414b52008ef4c450881ce",
-    "created_at": 1794945157181
+    "created_at": 1794945158452
   }
 ]
