@@ -5940,12 +5940,12 @@
     "created_at": 1794914195127
   },
   {
-    "id": "5c2d5fb0-d6e5-410f-8086-a8243663cc34",
-    "path": "/post/a6f82130-5740-4162-b7fc-e6abbbe18090",
-    "post_id": "a6f82130-5740-4162-b7fc-e6abbbe18090",
-    "category": "articles",
+    "id": "8974ac52-6bf0-4f5f-b4c9-6c1acb7c1d32",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "d7132ea1adaeb14b08f528030eabea6233cc8f881bd0266c292cbe1ba41e38a2",
     "user_agent_hash": "0b5bf65a3c87672ee6bd66722063c699806278ae67c8a7fac1ccf6083917e6cf",
-    "created_at": 1794914539648
+    "created_at": 1794914541521
   }
 ]
