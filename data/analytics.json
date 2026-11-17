@@ -6118,5 +6118,14 @@
     "visitor_hash": "0c275501a1bb1579169e50b38afa172e92e079055095e2e8923425e80dbbb087",
     "user_agent_hash": "63279522febcf5538b72996c16a8660ff177cd5536e86fb9c2a577bf32a65430",
     "created_at": 1794928717836
+  },
+  {
+    "id": "82272a19-64c9-4c8c-abb9-9d7876df9d96",
+    "path": "/post/a6f82130-5740-4162-b7fc-e6abbbe18090",
+    "post_id": "a6f82130-5740-4162-b7fc-e6abbbe18090",
+    "category": "articles",
+    "visitor_hash": "f8cf51efb56dee0dac8e92a73625c83a7badc47c5b82277a2f516178ab1f558b",
+    "user_agent_hash": "678198007528f3abf1e74002180a5bdb8d28a2acbbd49e324a977314b2ccdaf1",
+    "created_at": 1794929417115
   }
 ]
