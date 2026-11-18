@@ -6858,12 +6858,12 @@
     "created_at": 1794992511876
   },
   {
-    "id": "bf730cd6-2a65-491a-9fb0-3df2f49b6611",
-    "path": "/post/7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "post_id": "7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "category": "international",
+    "id": "9dd73840-dd89-45fc-8972-1462ccc7d0fe",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "b1e103cb68f617cc1907545324da57e4a7e1eb7ee05cc6afabad698a702c3e9c",
     "user_agent_hash": "17697a6c8295fdc70f413ca8eeff563b49c8df30283414b52008ef4c450881ce",
-    "created_at": 1794992614243
+    "created_at": 1794992615947
   }
 ]
