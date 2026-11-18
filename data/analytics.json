@@ -6651,12 +6651,12 @@
     "created_at": 1794971472473
   },
   {
-    "id": "ea107572-993c-40fc-a120-e72077b853ef",
-    "path": "/post/7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "post_id": "7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "category": "international",
+    "id": "302c66c4-c528-49fc-92a8-bbb361d7b8ce",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "6e8ff68f0d18acb757e2336891dda8335f6f3c9a989b2b63a45b059dedc22ade",
     "user_agent_hash": "ef705e4b52680b23b68d1b62e95d7197a572ebe729ed0fdcd99cf73181f9b216",
-    "created_at": 1794972145295
+    "created_at": 1794972146529
   }
 ]
