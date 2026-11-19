@@ -7767,12 +7767,12 @@
     "created_at": 1795082516096
   },
   {
-    "id": "d3eb821f-1819-4ad3-8ca2-7f8675da803a",
-    "path": "/post/7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "post_id": "7a56789d-ea5d-4dbe-8eb6-beb7304cd0c1",
-    "category": "international",
+    "id": "6a054dde-c144-4014-8966-f679a56f910f",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "8c5d100cbd08f10e5502bd7d2f414a7d5be3feaa69afc6a522f1032faf53dbe6",
     "user_agent_hash": "5660f4594326500a331129ded50cfcb4427bba0979b557e377151a1ecd10fec3",
-    "created_at": 1795082677565
+    "created_at": 1795082679158
   }
 ]
