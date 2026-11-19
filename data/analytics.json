@@ -8044,5 +8044,14 @@
     "visitor_hash": "c9c9ba67c90928cc848bd1025591f811f34e7abfd8083fa06d45571eae987d79",
     "user_agent_hash": "52d6ca962968265dfebbe005b17bd0e37623d149f79957382b470eabe9b851dc",
     "created_at": 1795107882798
+  },
+  {
+    "id": "ad3f29a4-bb96-424b-9405-0824a5e67d03",
+    "path": "/post/66abced1-3c65-448e-b2e2-06182620c437",
+    "post_id": "66abced1-3c65-448e-b2e2-06182620c437",
+    "category": "syria",
+    "visitor_hash": "9472deed2c64d86a4a330226525151cf948fe9bac5fc898cd5e175ef23614c95",
+    "user_agent_hash": "424a3f2b1e9815c9f4bd85a3c0f8e554013114b234b78d0f4e661c1539369cd3",
+    "created_at": 1795109434412
   }
 ]
