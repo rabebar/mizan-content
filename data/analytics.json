@@ -10071,12 +10071,12 @@
     "created_at": 1795382249440
   },
   {
-    "id": "d194e932-04e2-4277-abcd-3bafee574da7",
-    "path": "/",
-    "post_id": null,
-    "category": "home",
+    "id": "50b5d349-cae6-4036-99b9-cebf0d1052f9",
+    "path": "/post/1ee4c112-9552-43cf-9e00-c98a4fccb987",
+    "post_id": "1ee4c112-9552-43cf-9e00-c98a4fccb987",
+    "category": "international",
     "visitor_hash": "dd4bb8aeac0688e03c6ed1d73504fb20002936f66825b299abf2e02f9ae6eab6",
     "user_agent_hash": "1ccfb9908f431464f96ae60ba2c45a45783d15ccba913a1d21b66184b714f9ef",
-    "created_at": 1795384339091
+    "created_at": 1795384338010
   }
 ]
