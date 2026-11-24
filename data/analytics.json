@@ -11061,21 +11061,12 @@
     "created_at": 1795502297044
   },
   {
-    "id": "c9704c02-1241-4a0a-9ee9-023112b324d3",
+    "id": "8d1d854f-b1bf-4b43-bfc5-8a212a47c3e1",
     "path": "/",
     "post_id": null,
     "category": "home",
     "visitor_hash": "63247e196592a7faa7cf941dbcff3bb9508c40aa70cb323234827ef31bd1b2cb",
-    "user_agent_hash": "bf04b646a4b3d1c55f0cce511ad67664a6c319e96c535ee28110c9938cda12ff",
-    "created_at": 1795503763439
-  },
-  {
-    "id": "be0949d4-88f0-43f8-b10c-2c1314891612",
-    "path": "/",
-    "post_id": null,
-    "category": "home",
-    "visitor_hash": "63247e196592a7faa7cf941dbcff3bb9508c40aa70cb323234827ef31bd1b2cb",
-    "user_agent_hash": "7526c00e18367b920e093b58c42973f7ef17b0623f24232159ddf110f63f8cbf",
-    "created_at": 1795503768143
+    "user_agent_hash": "0f1f08f98787e818d62f48bbcf39c9f91f2a313760d43ecb113972fd86c6cc05",
+    "created_at": 1795503762741
   }
 ]
