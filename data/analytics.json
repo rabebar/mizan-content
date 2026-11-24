@@ -11430,12 +11430,12 @@
     "created_at": 1795552448150
   },
   {
-    "id": "149ff4e3-f3da-4079-bb4f-7862bec90139",
-    "path": "/post/d30fff81-e8ca-4a76-9e8c-d4f9dc0522a4",
-    "post_id": "d30fff81-e8ca-4a76-9e8c-d4f9dc0522a4",
-    "category": "articles",
+    "id": "65f4c55c-4ca6-45b6-8e65-895f03fa893a",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
     "visitor_hash": "dd4bb8aeac0688e03c6ed1d73504fb20002936f66825b299abf2e02f9ae6eab6",
     "user_agent_hash": "1ccfb9908f431464f96ae60ba2c45a45783d15ccba913a1d21b66184b714f9ef",
-    "created_at": 1795552522678
+    "created_at": 1795552524425
   }
 ]
