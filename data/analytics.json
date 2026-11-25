@@ -11529,12 +11529,12 @@
     "created_at": 1795570928691
   },
   {
-    "id": "4d9ff9c2-164e-4978-9ed3-aed138b7d304",
+    "id": "afc3893e-6b08-4e25-9e33-8bb5ce2a474e",
     "path": "/",
     "post_id": null,
     "category": "home",
     "visitor_hash": "33ce6555344fd2735ba045e4ebc817ef69856695e8a0297fa628bae4c309034a",
-    "user_agent_hash": "387ae7aef0ff2cb88b68b8790a2f5eb8b677c19a765a3118517b46df17c55193",
-    "created_at": 1795575404831
+    "user_agent_hash": "e339abe8f7b12222a521e570cad96e58d416ec304c81e1e69802098239ce3b30",
+    "created_at": 1795575405534
   }
 ]
