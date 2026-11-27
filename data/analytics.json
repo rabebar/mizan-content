@@ -12166,5 +12166,14 @@
     "visitor_hash": "aeeeb74b6459923d302e17093893a32442c9108a78599ad5e0ebc9e59efd1d11",
     "user_agent_hash": "d925dd54c2af3125ec164a5e160bde829c0363f1e16a354b6dbb0a92a0d454ad",
     "created_at": 1795792904234
+  },
+  {
+    "id": "6408908f-7d20-4186-8f8c-15df250ca621",
+    "path": "/",
+    "post_id": null,
+    "category": "home",
+    "visitor_hash": "ad779dd7ee31d68f31f1a196c80066f9250aa0285ffbc9dbb231e038a74ef6bb",
+    "user_agent_hash": "350d27bdffca7fa98f4b2e77af8f0fd28edafc278c8069595c91b13e2fda0761",
+    "created_at": 1795807426562
   }
 ]
