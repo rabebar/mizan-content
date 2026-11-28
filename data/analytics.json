@@ -12292,5 +12292,14 @@
     "visitor_hash": "c6a3ece4bc372b0adc1fac50c4ae800ca108b43e3e168ce863b2f344f93d6528",
     "user_agent_hash": "8abd5911139dd73bcfb54147970adcfb632ecce3aeaf71d507a40666eb6e9742",
     "created_at": 1795824698882
+  },
+  {
+    "id": "4befa228-3dfe-4464-b9c6-62ba5d1da6ca",
+    "path": "/post/66abced1-3c65-448e-b2e2-06182620c437",
+    "post_id": "66abced1-3c65-448e-b2e2-06182620c437",
+    "category": "syria",
+    "visitor_hash": "c6a3ece4bc372b0adc1fac50c4ae800ca108b43e3e168ce863b2f344f93d6528",
+    "user_agent_hash": "8abd5911139dd73bcfb54147970adcfb632ecce3aeaf71d507a40666eb6e9742",
+    "created_at": 1795824706021
   }
 ]
